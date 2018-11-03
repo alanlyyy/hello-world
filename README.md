@@ -1,5 +1,5 @@
 # hello-world
-Used to underatand how github works.
+Used to understand how github works.
 
 My name is Alan Ly I am an electrical engineering graduate from San Francisco State University.
 I am interested in coding as a hobby and plan to use github for my own personal projects to 
